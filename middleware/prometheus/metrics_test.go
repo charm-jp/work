@@ -5,9 +5,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
+	"github.com/charm-jp/work"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
 )
 
 func TestHandleFuncMetrics(t *testing.T) {

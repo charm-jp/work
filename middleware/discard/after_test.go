@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/charm-jp/work"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
 )
 
 func TestAfter(t *testing.T) {

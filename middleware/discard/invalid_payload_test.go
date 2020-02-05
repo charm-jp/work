@@ -3,8 +3,8 @@ package discard
 import (
 	"testing"
 
+	"github.com/charm-jp/work"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
 )
 
 func TestInvalidPayload(t *testing.T) {

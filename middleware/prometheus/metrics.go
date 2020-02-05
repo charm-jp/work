@@ -3,8 +3,8 @@ package prometheus
 import (
 	"time"
 
+	"github.com/charm-jp/work"
 	"github.com/prometheus/client_golang/prometheus"
-	"github.com/taylorchu/work"
 )
 
 var (

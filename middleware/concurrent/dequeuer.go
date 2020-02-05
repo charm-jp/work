@@ -1,9 +1,9 @@
 package concurrent
 
 import (
+	"github.com/charm-jp/work"
 	"github.com/go-redis/redis"
 	"github.com/google/uuid"
-	"github.com/taylorchu/work"
 )
 
 // DequeuerOptions defines how many jobs in the same queue can be running at the same time.

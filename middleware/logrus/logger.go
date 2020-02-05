@@ -3,8 +3,8 @@ package logrus
 import (
 	"time"
 
+	"github.com/charm-jp/work"
 	"github.com/sirupsen/logrus"
-	"github.com/taylorchu/work"
 )
 
 // HandleFuncLogger logs job execution with logrus structured logger.

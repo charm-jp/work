@@ -1,9 +1,9 @@
 # gocraft/work v2
 
-[![GoDoc](https://godoc.org/github.com/taylorchu/work?status.png)](https://godoc.org/github.com/taylorchu/work)
-[![Go Report Card](https://goreportcard.com/badge/github.com/taylorchu/work)](https://goreportcard.com/report/github.com/taylorchu/work)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftaylorchu%2Fwork.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftaylorchu%2Fwork?ref=badge_shield)
-[![CircleCI](https://circleci.com/gh/taylorchu/work.svg?style=svg)](https://circleci.com/gh/taylorchu/work)
+[![GoDoc](https://godoc.org/github.com/charm-jp/work?status.png)](https://godoc.org/github.com/charm-jp/work)
+[![Go Report Card](https://goreportcard.com/badge/github.com/charm-jp/work)](https://goreportcard.com/report/github.com/charm-jp/work)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcharm-jp%2Fwork.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcharm-jp%2Fwork?ref=badge_shield)
+[![CircleCI](https://circleci.com/gh/charm-jp/work.svg?style=svg)](https://circleci.com/gh/charm-jp/work)
 
 
 This is the in-progress repo for gocraft/work rewrite.
@@ -35,10 +35,10 @@ This is the in-progress repo for gocraft/work rewrite.
     BenchmarkWorkerRunJob/work_v1_100000-8    	       1	17515722574 ns/op
     BenchmarkWorkerRunJob/work_v2_100000-8    	       1	1502468637 ns/op
     PASS
-    ok  	github.com/taylorchu/work	87.901s
+    ok  	github.com/charm-jp/work	87.901s
     ```
 - [ ] http enqueuer
 
 
 ## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Ftaylorchu%2Fwork.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Ftaylorchu%2Fwork?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcharm-jp%2Fwork.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcharm-jp%2Fwork?ref=badge_large)

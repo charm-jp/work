@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
+	"github.com/charm-jp/work"
 	"github.com/go-redis/redis"
-	"github.com/taylorchu/work"
 )
 
 type sidekiqQueue struct {

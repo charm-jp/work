@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/charm-jp/work"
 	"github.com/go-redis/redis"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
 	"github.com/vmihailenco/msgpack"
 )
 

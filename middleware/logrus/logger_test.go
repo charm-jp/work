@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
+	"github.com/charm-jp/work"
 	"github.com/stretchr/testify/require"
-	"github.com/taylorchu/work"
 )
 
 func TestHandleFuncLogger(t *testing.T) {

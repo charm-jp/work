@@ -3,8 +3,8 @@ package discard
 import (
 	"strings"
 
+	"github.com/charm-jp/work"
 	"github.com/pkg/errors"
-	"github.com/taylorchu/work"
 )
 
 // InvalidPayload discards a job if it has decode error.
